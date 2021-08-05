@@ -36,5 +36,5 @@ This is probably where I'm supposed to say something...
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jackjona123&" alt="jackjona123" /></p>
 
-<br />
+
 ![Jack Jona's Activity Graph](https://activity-graph.herokuapp.com/graph?username=jackjona123&bg_color=131723&color=aaaaaa&line=8b949e&point=c9d1d9&area=true&hide_border=true)
