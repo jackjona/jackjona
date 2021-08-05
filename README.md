@@ -11,6 +11,7 @@ This is probably where I'm supposed to say something...
 
 <h1 align="center">Hi 👋, I'm Jack Jona</h1>
 <h3 align="center">This is probably where I'm supposed to say something important...</h3>
+<center>
 
 - 👨‍💻 My website: [https://www.jackjona.live](https://www.jackjona.live)
 
@@ -19,6 +20,8 @@ This is probably where I'm supposed to say something...
 - 📫 How to reach me: **jackjona123@pm.me**
 
 - 📍 Location: [Canada](Canada)
+
+</center>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
