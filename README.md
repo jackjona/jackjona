@@ -5,4 +5,4 @@ jackjona123/jackjona123 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Jack Jona's Activity Graph](https://activity-graph.herokuapp.com/graph?username=jackjona123&bg_color=131723&color=aaaaaa&line=8b949e&point=c9d1d9&area=true&hide_border=true)]
+[Jack Jona's Activity Graph](https://activity-graph.herokuapp.com/graph?username=jackjona123&bg_color=131723&color=aaaaaa&line=8b949e&point=c9d1d9&area=true&hide_border=true)
