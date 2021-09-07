@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 This is probably where I'm supposed to say something...
 --->
 
-<h1 align="center">Hi 👋, I'm Jack Jona</h1>
+<h1 align="center">Hey! 👋</h1>
 <h3 align="center">This is probably where I'm supposed to say something important...</h3>
 
 - 👨‍💻 My website: [https://www.jackjona.live](https://www.jackjona.live)
