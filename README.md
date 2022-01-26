@@ -12,9 +12,9 @@ This is probably where I'm supposed to say something...
 <h1 align="center">Hey! 👋</h1>
 <h3 align="center">This is probably where I'm supposed to say something important...</h3>
 
-- 👨‍💻 My website: [https://www.jackjona.live](https://www.jackjona.live)
+- 👨‍💻 My website: [https://www.jackjona.me](https://www.jackjona.me)
 
-- 📝 My blog: [https://blog.jackjona.live](https://blog.jackjona.live)
+- 📝 My blog: [https://blog.jackjona.me](https://blog.jackjona.me)
 
 - 📫 How to reach me: **jackjona123@pm.me**
 
