@@ -1,4 +1,4 @@
-👋 Hi, I’m Jack Jona! This is probably where I'm supposed to say something...
+[Insert Text Here]
 
 <!---
 jackjona/jackjona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
