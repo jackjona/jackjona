@@ -12,11 +12,11 @@ This is probably where I'm supposed to say something...
 <h1 align="center">Hey! 👋</h1>
 <h3 align="center">This is probably where I'm supposed to say something important...</h3>
 
-- 👨‍💻 My website: [https://www.jackjona.me](https://www.jackjona.me)
+- 👨‍💻 My website: [https://www.jackjona.ga](https://www.jackjona.ga)
 
-- 📝 My blog: [https://blog.jackjona.me](https://blog.jackjona.me)
+- 📝 My blog: [https://blog.jackjona.ga](https://blog.jackjona.ga)
 
-- 📫 How to reach me: **jackjona123@pm.me**
+- 📫 How to reach me: **git.denno@simplelogin.com**
 
 - 📍 Location: [Canada](Canada)
 
