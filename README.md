@@ -35,4 +35,4 @@ This is probably where I'm supposed to say something...
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jackjona123&show_icons=true&locale=en" alt="jackjona123" /></p>
 
 
-![Jack Jona's Activity Graph](https://activity-graph.herokuapp.com/graph?username=jackjona123&bg_color=131723&color=aaaaaa&line=8b949e&point=c9d1d9&area=true&hide_border=true)
+![Jack Jona's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jackjona123&bg_color=131723&color=aaaaaa&line=8b949e&point=c9d1d9&area=true&hide_border=true)
