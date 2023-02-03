@@ -37,6 +37,6 @@ This is probably where I'm supposed to say something...
 ###
 ---
 <p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=jackjona123&&show_icons=true&theme=radical&locale=en&layout=compact" width = 350>
-  <img src = "https://github-readme-stats.vercel.app/api?username=jackjona123&&show_icons=true&theme=radical" width = 420>
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=jackjona&&show_icons=true&theme=radical&locale=en&layout=compact" width = 350>
+  <img src = "https://github-readme-stats.vercel.app/api?username=jackjona&&show_icons=true&theme=radical" width = 420>
 </p>
