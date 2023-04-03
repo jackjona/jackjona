@@ -12,7 +12,7 @@ This is probably where I'm supposed to say something...
   <h1>Hey! 👋</h1>
   <h3>This is probably where I'm supposed to say something...</h3>
   
-  👨‍💻 My website: [https://jackjona.vercel.app](https://jackjona.vercel.app)
+  👨‍💻 My website: [https://jackjona.eu.org](https://jackjona.eu.org)
   
   📫 How to reach me: git.denno@simplelogin.com
 
