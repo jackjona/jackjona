@@ -12,9 +12,9 @@ This is probably where I'm supposed to say something...
   <h1>Hey! 👋</h1>
   <h3>This is probably where I'm supposed to say something...</h3>
   
-  👨‍💻 My website: [https://jackjona.eu.org](https://jackjona.eu.org)
+  👨‍💻 My website: [https://jackjona.com](https://jackjona.com)
   
-  📫 How to reach me: git.denno@simplelogin.com
+  📫 How to reach me: git@jackjona.com
 
   📍 Location: :canada:
 </div>
