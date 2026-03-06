@@ -20,7 +20,4 @@ This is probably where I'm supposed to say something...
 </div>
 
 ---
-<p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=jackjona&&show_icons=true&theme=radical&locale=en&layout=compact" width = 320>
-  <img src = "https://github-readme-stats.vercel.app/api?username=jackjona&&show_icons=true&theme=radical" width = 420>
-</p>
+![Stats](./profile/stats.svg)
