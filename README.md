@@ -20,4 +20,3 @@ This is probably where I'm supposed to say something...
 </div>
 
 ---
-![Stats](./profile/stats.svg)
